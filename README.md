@@ -2,6 +2,9 @@
 
 This project is a simple image search engine built with JavaScript that interacts with the Unsplash API to fetch and display images based on user input. The app includes a search form and a "Show more" button to load additional images [TRY NOW!](https://qyuzet.github.io/js-search-engine).
 
+![image](https://github.com/user-attachments/assets/edf99632-3c64-4939-92a4-a0ff9e238b00)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
